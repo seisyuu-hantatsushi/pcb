@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c6bd3943-06bb-4d3f-9bf7-af334b544739)
+
+  (paper "A4")
+
+  (title_block
+    (title "Ether sniffer prototype 1")
+    (date "2022-08-03")
+    (rev "Rev.1")
+    (company "TANIGUCHI,Kazushige")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
