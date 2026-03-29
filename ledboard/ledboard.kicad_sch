@@ -3954,7 +3954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0194f542-86b6-4be0-a670-3265d5ab2aa9")
-		(property "Reference" "C12"
+		(property "Reference" "C11"
 			(at 238.76 50.7999 0)
 			(effects
 				(font
@@ -4008,7 +4008,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C12")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -4090,7 +4090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08896224-3449-49ae-8ec8-7c53a18a5d45")
-		(property "Reference" "R7"
+		(property "Reference" "R13"
 			(at 34.29 130.8099 0)
 			(effects
 				(font
@@ -4144,7 +4144,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R7")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -4296,7 +4296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11d043b0-b08d-41fb-a9ac-9ff1852b90d8")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR08"
 			(at 170.18 125.73 0)
 			(effects
 				(font
@@ -4346,7 +4346,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "#PWR019")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -4362,7 +4362,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14f797d9-437c-4705-81b6-abf91769dff1")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR05"
 			(at 204.47 82.55 0)
 			(effects
 				(font
@@ -4412,7 +4412,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "#PWR018")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -4494,7 +4494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19ee3ea6-b3ac-46eb-a524-d546a2558329")
-		(property "Reference" "C10"
+		(property "Reference" "C9"
 			(at 177.8 62.2299 0)
 			(effects
 				(font
@@ -4566,7 +4566,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C10")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -4651,7 +4651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d238c8a-9d8a-42f3-b4a4-57049731d5e9")
-		(property "Reference" "TP4"
+		(property "Reference" "TP2"
 			(at 274.32 39.8779 0)
 			(effects
 				(font
@@ -4702,7 +4702,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "TP4")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -4718,7 +4718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25ed5000-61eb-41b6-9845-3b29f93d1a05")
-		(property "Reference" "C8"
+		(property "Reference" "C18"
 			(at 140.97 129.5399 0)
 			(effects
 				(font
@@ -4772,7 +4772,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C8")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -4788,7 +4788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "267cbd7f-c0fc-4f75-a4d8-3d8445e3f554")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR06"
 			(at 111.76 100.33 0)
 			(effects
 				(font
@@ -4838,7 +4838,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "#PWR05")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -4854,7 +4854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2722483b-1112-4aa8-ae5f-1a37afb538c0")
-		(property "Reference" "R39"
+		(property "Reference" "R6"
 			(at 232.41 41.9099 0)
 			(effects
 				(font
@@ -4908,7 +4908,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R39")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -4924,7 +4924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32bb66a2-de92-4c4a-a3d4-cc8aa61ec096")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR010"
 			(at 96.52 144.78 0)
 			(effects
 				(font
@@ -4974,7 +4974,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "#PWR09")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -4990,7 +4990,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "343cd254-ecfe-4386-b4bc-d0f232185622")
-		(property "Reference" "U8"
+		(property "Reference" "U2"
 			(at 204.47 31.75 0)
 			(effects
 				(font
@@ -5074,7 +5074,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "U8")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -5156,7 +5156,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fe2c9ee-733b-435b-b0f6-17d46da3c85f")
-		(property "Reference" "C16"
+		(property "Reference" "C15"
 			(at 68.58 124.4599 0)
 			(effects
 				(font
@@ -5210,7 +5210,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C16")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -5226,10 +5226,11 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "423516a5-cbd2-4f3c-9b5f-0008e2e5b0d5")
-		(property "Reference" "C14"
+		(property "Reference" "C13"
 			(at 261.62 50.7999 0)
 			(effects
 				(font
+					(face "KiCad Font")
 					(size 1.27 1.27)
 				)
 				(justify left)
@@ -5280,7 +5281,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C14")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -5296,7 +5297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45e27e12-959f-489e-8a1b-118887409866")
-		(property "Reference" "C11"
+		(property "Reference" "C10"
 			(at 189.23 62.2299 0)
 			(effects
 				(font
@@ -5368,7 +5369,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C11")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -5383,7 +5384,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "461f143c-9bca-42fd-9caa-6e891ae002f0")
-		(property "Reference" "TP3"
+		(property "Reference" "TP4"
 			(at 195.58 108.458 0)
 			(effects
 				(font
@@ -5434,7 +5435,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "TP3")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -5537,7 +5538,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a0d98b5-eef4-4117-b21f-de17412333c6")
-		(property "Reference" "R6"
+		(property "Reference" "R12"
 			(at 34.29 123.1899 0)
 			(effects
 				(font
@@ -5591,7 +5592,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R6")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -5607,7 +5608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ba1dca1-e38a-482b-b216-0f0d57318a1f")
-		(property "Reference" "R38"
+		(property "Reference" "R8"
 			(at 231.14 58.4199 0)
 			(effects
 				(font
@@ -5661,7 +5662,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R38")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -5677,7 +5678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "642d892a-1711-48a3-af38-794ff34f85f9")
-		(property "Reference" "TP2"
+		(property "Reference" "TP3"
 			(at 182.88 98.2979 0)
 			(effects
 				(font
@@ -5728,7 +5729,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "TP2")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -5810,7 +5811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dbed2b1-e6d2-45f9-a989-6c210f2a7da5")
-		(property "Reference" "C15"
+		(property "Reference" "C14"
 			(at 273.05 50.7999 0)
 			(effects
 				(font
@@ -5864,7 +5865,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C15")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -5880,7 +5881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7122a27e-8000-4a3f-98ce-336d310aee90")
-		(property "Reference" "C19"
+		(property "Reference" "C18"
 			(at 173.99 107.9499 0)
 			(effects
 				(font
@@ -5934,7 +5935,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C19")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -6038,7 +6039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76c5fa1b-094d-47ff-9c06-0c9342b8f90c")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR012"
 			(at 137.16 144.78 0)
 			(effects
 				(font
@@ -6088,7 +6089,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "#PWR010")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -6192,7 +6193,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "788210f6-6038-43fd-8169-0b967b4814fb")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR09"
 			(at 31.75 142.24 0)
 			(effects
 				(font
@@ -6242,7 +6243,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "#PWR08")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -6258,7 +6259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eec337a-0ad0-4795-b864-c712fc429bcb")
-		(property "Reference" "C13"
+		(property "Reference" "C12"
 			(at 250.19 50.7999 0)
 			(effects
 				(font
@@ -6312,7 +6313,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C13")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -6572,7 +6573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8964da15-7828-4685-b12d-1e6334e53767")
-		(property "Reference" "C17"
+		(property "Reference" "C16"
 			(at 80.01 124.4599 0)
 			(effects
 				(font
@@ -6626,7 +6627,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C17")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -6642,7 +6643,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89b6ccc3-a0cb-4312-9390-378118550f55")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR011"
 			(at 120.65 144.78 0)
 			(effects
 				(font
@@ -6692,7 +6693,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "#PWR06")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -6708,7 +6709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bfe4dcc-82fd-49c7-b2b5-92213bda7282")
-		(property "Reference" "R12"
+		(property "Reference" "R16"
 			(at 152.4 129.5399 0)
 			(effects
 				(font
@@ -6762,7 +6763,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R12")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -6778,7 +6779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c34c83c-217f-4367-87a8-ebb2b03abfd3")
-		(property "Reference" "C18"
+		(property "Reference" "C17"
 			(at 90.17 124.4599 0)
 			(effects
 				(font
@@ -6832,7 +6833,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C18")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -6915,7 +6916,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af0108a6-1c28-4769-8c1f-d66edeff8258")
-		(property "Reference" "R10"
+		(property "Reference" "R14"
 			(at 99.06 124.4599 0)
 			(effects
 				(font
@@ -6969,7 +6970,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R10")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -7055,7 +7056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7ce971a-278c-4340-a526-554ae77870a2")
-		(property "Reference" "R40"
+		(property "Reference" "R9"
 			(at 231.14 66.0399 0)
 			(effects
 				(font
@@ -7109,7 +7110,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R40")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -7125,7 +7126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba4d91cd-f769-44df-8e6f-a895a9e5a93b")
-		(property "Reference" "R37"
+		(property "Reference" "R7"
 			(at 227.33 50.7999 0)
 			(effects
 				(font
@@ -7179,7 +7180,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R37")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -7263,7 +7264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1e93b89-6ed4-4363-8740-b3a090b9ddf7")
-		(property "Reference" "R11"
+		(property "Reference" "R15"
 			(at 99.06 132.0799 0)
 			(effects
 				(font
@@ -7317,7 +7318,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R11")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -7489,7 +7490,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cda472aa-afda-4791-b026-1d8b741ed799")
-		(property "Reference" "R8"
+		(property "Reference" "R10"
 			(at 46.99 105.4099 0)
 			(effects
 				(font
@@ -7543,7 +7544,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R8")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -7559,7 +7560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfe36136-5848-408f-93dd-25776699307d")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 120.2533 96.52 0)
 			(effects
 				(font
@@ -7661,7 +7662,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -7832,7 +7833,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ecff53e9-084b-49bc-b885-e30327da9caa")
-		(property "Reference" "C9"
+		(property "Reference" "C8"
 			(at 167.64 62.2299 0)
 			(effects
 				(font
@@ -7904,7 +7905,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "C9")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8078,7 +8079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fddc255a-997b-494a-8920-c7da18d717cc")
-		(property "Reference" "R9"
+		(property "Reference" "R11"
 			(at 46.99 113.0299 0)
 			(effects
 				(font
@@ -8132,7 +8133,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647"
-					(reference "R9")
+					(reference "R11")
 					(unit 1)
 				)
 			)
