@@ -575,7 +575,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "TBF62083AFG"
+			(property "MPN" "TBD62083AFG"
 				(at 0.508 -27.94 0)
 				(effects
 					(font
@@ -2902,6 +2902,142 @@
 		)
 	)
 	(symbol
+		(lib_id "MyLib:TBD62083AFG")
+		(at 106.68 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69b381ed-9337-455e-92b7-781540a82514")
+		(property "Reference" "U6"
+			(at 106.68 45.72 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TBD62083AFG"
+			(at 106.68 48.26 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "MyLib:SOP18-P-375-1p27_TOS"
+			(at 107.188 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=29808&prodName=TBD62083AFG"
+			(at 113.538 84.328 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Toshiba"
+			(at 105.918 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBD62083AFG"
+			(at 107.188 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "bfbb896d-5a8b-42d6-a40d-ad3d00c13088")
+		)
+		(pin "6"
+			(uuid "4e607d9c-4933-429b-88cc-9c69ee647534")
+		)
+		(pin "5"
+			(uuid "e0234bd3-76e3-4e5e-8fdd-2eb6de13db90")
+		)
+		(pin "14"
+			(uuid "82150a4d-9e40-4d5b-9cec-b1bb4aefe374")
+		)
+		(pin "15"
+			(uuid "e77cddb2-3283-4d26-a162-1355e1d17be1")
+		)
+		(pin "18"
+			(uuid "599903a7-69fd-45cf-acfd-2cfe6b963470")
+		)
+		(pin "3"
+			(uuid "21fcf4de-ce9b-4aa7-91ab-c9e7cf864bc6")
+		)
+		(pin "16"
+			(uuid "c4cf9dfc-79eb-4dbf-a388-19df8914df13")
+		)
+		(pin "12"
+			(uuid "0b1a1c7c-2143-4727-90e5-323540df4348")
+		)
+		(pin "9"
+			(uuid "b14e7113-519e-47a5-9cc4-aabb0ecc3f62")
+		)
+		(pin "8"
+			(uuid "4983f3a9-df65-4ce2-9657-61225a573504")
+		)
+		(pin "10"
+			(uuid "501507d6-ba29-41d2-82e9-e6a83257575f")
+		)
+		(pin "17"
+			(uuid "a4074c87-7ed2-40ec-acd8-4be3143cfa74")
+		)
+		(pin "13"
+			(uuid "8766ee7b-1f0d-4ffd-a631-4fba5d088903")
+		)
+		(pin "7"
+			(uuid "932c26f4-01f5-4c21-b4ae-dce7b9ca57cc")
+		)
+		(pin "11"
+			(uuid "9bf858f8-fc87-43ea-8998-d96e50191793")
+		)
+		(pin "2"
+			(uuid "fff9fe41-12ae-44fa-b2ee-1ef0f2be60fc")
+		)
+		(pin "1"
+			(uuid "0f73d190-58b9-4385-a13c-27933e480e4c")
+		)
+		(instances
+			(project "ledboard"
+				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647/a778b9b9-a786-4f14-8ba2-902f86c2e4ab"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 177.8 114.3 90)
 		(unit 1)
@@ -3030,142 +3166,6 @@
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647/a778b9b9-a786-4f14-8ba2-902f86c2e4ab"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MyLib:TBD62083AFG")
-		(at 106.68 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ad5234ff-aedf-462d-ac55-c5c8170eaad9")
-		(property "Reference" "U6"
-			(at 106.68 45.72 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "TBD62083AFG"
-			(at 106.68 48.26 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "MyLib:SOP18-P-375-1p27_TOS"
-			(at 107.188 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=29808&prodName=TBD62083AFG"
-			(at 113.538 84.328 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 106.68 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Toshiba"
-			(at 105.918 90.678 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "TBF62083AFG"
-			(at 107.188 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "dfb390a2-4908-4aa6-a84c-a4b3d1120c13")
-		)
-		(pin "18"
-			(uuid "2b07db34-f62d-4339-acda-a5caa743785f")
-		)
-		(pin "3"
-			(uuid "2a8e4175-d33a-4576-99d7-ed7509308c8a")
-		)
-		(pin "7"
-			(uuid "5c66caee-3c04-41c8-8011-8ddd728deb07")
-		)
-		(pin "6"
-			(uuid "d2a9173a-e389-411d-b9c1-875ee8226b7b")
-		)
-		(pin "16"
-			(uuid "0656dbd1-f49c-490d-b157-b322fab66630")
-		)
-		(pin "14"
-			(uuid "c09c1850-6c0d-49c5-9ee7-59075e8ddaa7")
-		)
-		(pin "5"
-			(uuid "30e488d4-0970-4439-bffb-f6f9e0578637")
-		)
-		(pin "2"
-			(uuid "0cad13ab-95c2-4709-aacc-66a1098314de")
-		)
-		(pin "1"
-			(uuid "3196b806-3765-4f35-843a-e514a38109aa")
-		)
-		(pin "10"
-			(uuid "6d808cd9-327e-4639-be66-e447bdf122b8")
-		)
-		(pin "17"
-			(uuid "7384baff-f84a-44eb-908a-b9365351a058")
-		)
-		(pin "4"
-			(uuid "bfa91b0f-b34f-4474-b267-eb199e1375a1")
-		)
-		(pin "11"
-			(uuid "a316394f-819c-48e0-9859-5aa691b6472b")
-		)
-		(pin "15"
-			(uuid "0e1cc992-39f1-4afc-8c80-51a2a8b84eed")
-		)
-		(pin "12"
-			(uuid "94af1e86-6faa-4564-b893-104752f68b81")
-		)
-		(pin "13"
-			(uuid "9495c5c9-a091-49da-b87c-1e30770453dc")
-		)
-		(pin "9"
-			(uuid "89f4977b-aade-4add-92a3-caa4abea62cd")
-		)
-		(instances
-			(project "ledboard"
-				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647/a778b9b9-a786-4f14-8ba2-902f86c2e4ab"
-					(reference "U6")
 					(unit 1)
 				)
 			)

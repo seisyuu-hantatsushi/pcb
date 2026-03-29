@@ -2402,6 +2402,660 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "MyLib:TBD62083AFG"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 13.716 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "TBD62083AFG"
+				(at 0.762 11.176 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "MyLib:SOP18-P-375-1p27_TOS"
+				(at 0.508 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=29808&prodName=TBD62083AFG"
+				(at 6.858 -24.638 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Toshiba"
+				(at -0.762 -30.988 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "TBD62083AFG"
+				(at 0.508 -27.94 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "TBD62083AFG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOP18-P-375-1p27_TOS SOP18-P-375-1p27_TOS-M SOP18-P-375-1p27_TOS-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TBD62083AFG_0_1"
+				(rectangle
+					(start -8.89 8.89)
+					(end 8.89 -17.78)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.572 -1.27) (xy -3.81 -1.27) (xy -3.81 -0.254) (xy -1.27 -1.27) (xy -3.81 -2.286) (xy -3.81 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 0) (xy -3.048 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 -2.54) (xy -3.048 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 -3.302) (xy -3.048 -3.302)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.048 -4.064) (xy -3.048 -4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.794) (xy -1.778 2.794)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 2.032) (xy -1.778 2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 3.048 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -0.762 -1.27)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -3.81) (xy 1.778 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -3.81) (xy 1.778 -2.794) (xy 0.762 -2.794) (xy 1.27 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -5.08) (xy 1.27 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -5.08) (xy 0 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -16.51 5.08 0)
+					(length 7.62)
+					(name "I1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 2.54 0)
+					(length 7.62)
+					(name "I2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 0 0)
+					(length 7.62)
+					(name "I3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 -2.54 0)
+					(length 7.62)
+					(name "I4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 -5.08 0)
+					(length 7.62)
+					(name "I5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 -7.62 0)
+					(length 7.62)
+					(name "I6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 -10.16 0)
+					(length 7.62)
+					(name "I7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -16.51 -12.7 0)
+					(length 7.62)
+					(name "I8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at -16.51 -15.24 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 5.08 180)
+					(length 7.62)
+					(name "O1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 2.54 180)
+					(length 7.62)
+					(name "O2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 0 180)
+					(length 7.62)
+					(name "O3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 -2.54 180)
+					(length 7.62)
+					(name "O4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 -5.08 180)
+					(length 7.62)
+					(name "O5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 -7.62 180)
+					(length 7.62)
+					(name "O6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 -10.16 180)
+					(length 7.62)
+					(name "O7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 16.51 -12.7 180)
+					(length 7.62)
+					(name "O8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 16.51 -15.24 180)
+					(length 7.62)
+					(name "COMMON"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "MyLib:TBD62783AFG"
 			(pin_names
 				(offset 0.254)
@@ -6557,143 +7211,6 @@
 		)
 	)
 	(symbol
-		(lib_name "TBD62083AFG_1")
-		(lib_id "MyLib:TBD62083AFG")
-		(at 73.66 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2a2e3972-2c9f-42e4-8efa-e0fddacad4f8")
-		(property "Reference" "U3"
-			(at 73.66 25.4 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "TBD62083AFG"
-			(at 73.66 27.94 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "MyLib:SOP18-P-375-1p27_TOS"
-			(at 74.168 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=29808&prodName=TBD62083AFG"
-			(at 80.518 64.008 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Toshiba"
-			(at 72.898 70.358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "TBF62083AFG"
-			(at 74.168 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "d95f4e67-bb4b-4061-8d39-579ea27e82d8")
-		)
-		(pin "16"
-			(uuid "db84cab1-823e-47bb-9f46-2dc2404b4094")
-		)
-		(pin "14"
-			(uuid "8679ca37-1556-48fd-91fd-1289d5155829")
-		)
-		(pin "1"
-			(uuid "0c821ca4-dbc4-4f60-9f6a-eaf778f9d919")
-		)
-		(pin "9"
-			(uuid "9ea69d6d-ba91-40fd-a5ef-8f547a2d9ac4")
-		)
-		(pin "13"
-			(uuid "3ea89f4f-a961-4da2-8598-e73f291a854f")
-		)
-		(pin "8"
-			(uuid "5f71c65b-0461-4f63-a476-f214eec0fb31")
-		)
-		(pin "15"
-			(uuid "0274fd09-2a47-416a-86d7-98c0cb389895")
-		)
-		(pin "18"
-			(uuid "45ab44da-6cd7-4d9a-ac52-f8a2e01e54d7")
-		)
-		(pin "17"
-			(uuid "9debbd82-614b-490a-83b8-185090a02ac5")
-		)
-		(pin "5"
-			(uuid "85c80cd0-6ca3-4b9f-89cc-fc46a9b1742c")
-		)
-		(pin "12"
-			(uuid "b1bd3cc2-b1b9-4462-92d1-61ebe7d3e3c7")
-		)
-		(pin "10"
-			(uuid "4c3aca8d-db4c-4916-920e-5e8ac7ac14a9")
-		)
-		(pin "11"
-			(uuid "7a1e0932-313e-41cc-b6d8-e2498e7e648e")
-		)
-		(pin "4"
-			(uuid "7f540ed3-1fb8-49f0-909d-c192ca236735")
-		)
-		(pin "7"
-			(uuid "e0067e99-dd32-4d6e-b137-ce78d889a960")
-		)
-		(pin "2"
-			(uuid "5fa0cd54-e807-4f46-b8b0-7308f0d1bbd6")
-		)
-		(pin "3"
-			(uuid "a5b9d953-52af-4e90-b6a3-31e8c3237b15")
-		)
-		(instances
-			(project "ledboard"
-				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647/49f30863-2902-4199-8294-8e718eb02f26"
-					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 142.24 39.37 0)
 		(unit 1)
@@ -8843,6 +9360,142 @@
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647/49f30863-2902-4199-8294-8e718eb02f26"
 					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "MyLib:TBD62083AFG")
+		(at 73.66 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f63762bc-13cc-4780-a0d9-65538b0a7e52")
+		(property "Reference" "U3"
+			(at 73.66 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "TBD62083AFG"
+			(at 73.66 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "MyLib:SOP18-P-375-1p27_TOS"
+			(at 74.168 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://toshiba.semicon-storage.com/info/docget.jsp?did=29808&prodName=TBD62083AFG"
+			(at 80.518 64.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Toshiba"
+			(at 72.898 70.358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBD62083AFG"
+			(at 74.168 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "533f9127-ce54-4aec-bbec-103bcb74757c")
+		)
+		(pin "10"
+			(uuid "1a67a270-efb8-43ee-af27-0fdff6f87119")
+		)
+		(pin "15"
+			(uuid "eab7a3d2-cf6d-4c6d-b3ea-8178218fb23d")
+		)
+		(pin "2"
+			(uuid "feaf6166-bbfd-4323-ba44-5953cb1a9212")
+		)
+		(pin "1"
+			(uuid "a5b1ce18-0969-43c4-bb45-2a650785c560")
+		)
+		(pin "3"
+			(uuid "b0791bee-c19f-4b08-8e83-958a2a7bee2e")
+		)
+		(pin "17"
+			(uuid "3bfe8afe-494e-453c-af51-bf907057eb49")
+		)
+		(pin "12"
+			(uuid "ee17dba9-4ad9-4f91-b5db-5c50af2fd359")
+		)
+		(pin "13"
+			(uuid "53151ed8-afb6-4e55-bd07-d484a847a7c4")
+		)
+		(pin "8"
+			(uuid "a3916e3a-e0fe-4594-a663-ddfc3da9a6bd")
+		)
+		(pin "9"
+			(uuid "d25aff93-308c-4ff4-ae00-ea02ebcbcfcc")
+		)
+		(pin "18"
+			(uuid "eb9ff2a1-4a43-43a3-abd4-85783c54f264")
+		)
+		(pin "11"
+			(uuid "a371b4f3-f325-43f3-acb7-4703e1de9a3f")
+		)
+		(pin "5"
+			(uuid "0594bf43-ddb8-4865-8904-7f7a9de0a559")
+		)
+		(pin "6"
+			(uuid "3fcba66a-5c11-4b74-ad2a-d782b4152164")
+		)
+		(pin "4"
+			(uuid "a77a3658-b20a-48e1-9e71-6d0461a6638d")
+		)
+		(pin "14"
+			(uuid "ef829326-12a1-4d32-a5b7-4a7b1fe9aff5")
+		)
+		(pin "16"
+			(uuid "546ebb21-aa09-40a8-a964-4bed7c4d60fd")
+		)
+		(instances
+			(project "ledboard"
+				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647/49f30863-2902-4199-8294-8e718eb02f26"
+					(reference "U3")
 					(unit 1)
 				)
 			)
