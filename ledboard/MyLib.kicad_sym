@@ -6,7 +6,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "L"
+		(property "Reference" "D"
 			(at 8.636 3.556 0)
 			(effects
 				(font
@@ -391,7 +391,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "L"
+		(property "Reference" "D"
 			(at -4.318 -11.684 0)
 			(effects
 				(font

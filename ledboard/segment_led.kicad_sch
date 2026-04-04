@@ -985,7 +985,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at -16.51 -15.24 0)
 					(length 7.62)
 					(name "GND"
@@ -1687,7 +1687,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 36.83 -20.32 180)
 					(length 7.62)
 					(name "GND"
@@ -1809,6 +1809,16 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(text "7 Segment LED"
+		(exclude_from_sim no)
+		(at 192.532 171.45 0)
+		(effects
+			(font
+				(size 1.778 1.778)
+			)
+		)
+		(uuid "23567874-e0f6-4080-a70d-11c2688cdc37")
 	)
 	(text "Use 1/4 W resistors."
 		(exclude_from_sim no)
@@ -2388,7 +2398,7 @@
 		)
 		(uuid "75f5b1ad-d8b1-472c-8f6e-0e9313d83d99")
 	)
-	(hierarchical_label "+5V"
+	(hierarchical_label "+5V_VCC"
 		(shape input)
 		(at 40.64 27.94 180)
 		(effects
@@ -2461,7 +2471,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 154.94 102.87 90)
 			(effects
 				(font
@@ -2469,7 +2479,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 154.94 108.458 90)
 			(effects
 				(font
@@ -2478,7 +2488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 154.94 106.68 0)
 			(effects
 				(font
@@ -2489,6 +2499,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 154.94 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 154.94 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 154.94 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2529,7 +2557,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 132.08 95.25 90)
 			(effects
 				(font
@@ -2537,7 +2565,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.08 100.838 90)
 			(effects
 				(font
@@ -2546,7 +2574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 132.08 99.06 0)
 			(effects
 				(font
@@ -2557,6 +2585,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 132.08 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 132.08 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 132.08 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2626,6 +2672,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 87.63 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBD62783AFG"
+			(at 87.63 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Toshiba"
 			(at 87.63 99.06 0)
 			(effects
 				(font
@@ -2715,7 +2779,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 185.42 113.03 90)
 			(effects
 				(font
@@ -2723,7 +2787,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 185.42 118.618 90)
 			(effects
 				(font
@@ -2732,7 +2796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 185.42 116.84 0)
 			(effects
 				(font
@@ -2743,6 +2807,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 185.42 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 185.42 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 185.42 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2783,7 +2865,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 147.32 100.33 90)
 			(effects
 				(font
@@ -2791,7 +2873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 147.32 105.918 90)
 			(effects
 				(font
@@ -2800,7 +2882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 147.32 104.14 0)
 			(effects
 				(font
@@ -2811,6 +2893,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 147.32 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 147.32 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 147.32 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,7 +2951,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 162.56 105.41 90)
 			(effects
 				(font
@@ -2859,7 +2959,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 162.56 110.998 90)
 			(effects
 				(font
@@ -2868,7 +2968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 162.56 109.22 0)
 			(effects
 				(font
@@ -2879,6 +2979,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 162.56 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 162.56 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 162.56 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3055,7 +3173,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 177.8 110.49 90)
 			(effects
 				(font
@@ -3063,7 +3181,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 177.8 116.078 90)
 			(effects
 				(font
@@ -3072,7 +3190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 177.8 114.3 0)
 			(effects
 				(font
@@ -3083,6 +3201,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 177.8 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 177.8 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3189,7 +3325,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 170.18 107.95 90)
 			(effects
 				(font
@@ -3197,7 +3333,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 170.18 113.538 90)
 			(effects
 				(font
@@ -3206,7 +3342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 170.18 111.76 0)
 			(effects
 				(font
@@ -3217,6 +3353,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 170.18 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 170.18 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 170.18 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3248,7 +3402,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d69c714f-5a60-4f98-9950-9ef1e2a3eb31")
-		(property "Reference" "L3"
+		(property "Reference" "D11"
 			(at 222.504 86.36 0)
 			(effects
 				(font
@@ -3266,7 +3420,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MyLib:SN620362B"
 			(at 214.63 90.17 0)
 			(effects
 				(font
@@ -3286,6 +3440,24 @@
 		)
 		(property "Description" "7 Segment Blue LED Common Cathode"
 			(at 215.646 110.236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN620362B"
+			(at 214.63 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ARKLED"
+			(at 214.63 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3326,7 +3498,7 @@
 		(instances
 			(project "ledboard"
 				(path "/bdb2205c-1d8b-445a-876a-0efe4f06b647/a778b9b9-a786-4f14-8ba2-902f86c2e4ab"
-					(reference "L3")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -3350,7 +3522,7 @@
 				)
 			)
 		)
-		(property "Value" "62"
+		(property "Value" "100"
 			(at 139.7 97.79 90)
 			(effects
 				(font
@@ -3358,7 +3530,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 139.7 103.378 90)
 			(effects
 				(font
@@ -3367,7 +3539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-SR_20105_ROHS_L.pdf"
 			(at 139.7 101.6 0)
 			(effects
 				(font
@@ -3378,6 +3550,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SR0603FR-7T100RL"
+			(at 139.7 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 139.7 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
