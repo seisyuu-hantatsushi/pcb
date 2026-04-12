@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "bdb2205c-1d8b-445a-876a-0efe4f06b647")
 	(paper "A4")
+	(title_block
+		(date "2026-04-12")
+		(rev "1.0")
+	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack_Switch"
 			(pin_names

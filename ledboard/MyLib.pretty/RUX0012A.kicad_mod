@@ -229,4 +229,15 @@
 		(uuid "da805b1a-82ef-4437-8b08-676cbd567bdb")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/MyLib.3dshapes/RPS0012A.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
