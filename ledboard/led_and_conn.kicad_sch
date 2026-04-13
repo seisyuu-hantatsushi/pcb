@@ -7096,7 +7096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 163.83 41.91 0)
 			(effects
 				(font
@@ -7123,7 +7123,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 163.83 41.91 0)
 			(effects
 				(font
@@ -7190,7 +7190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 120.65 36.83 0)
 			(effects
 				(font
@@ -7217,7 +7217,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 120.65 36.83 0)
 			(effects
 				(font
@@ -7436,7 +7436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 142.24 39.37 0)
 			(effects
 				(font
@@ -7463,7 +7463,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 142.24 39.37 0)
 			(effects
 				(font
@@ -8180,7 +8180,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "DS1023-2 20SF11"
+		(property "MPN" "DS1023-2*20SF11"
 			(at 69.85 107.95 0)
 			(effects
 				(font
@@ -8514,7 +8514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 100.33 34.29 0)
 			(effects
 				(font
@@ -8541,7 +8541,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 100.33 34.29 0)
 			(effects
 				(font
@@ -8695,7 +8695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 205.74 46.99 0)
 			(effects
 				(font
@@ -8722,7 +8722,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 205.74 46.99 0)
 			(effects
 				(font
@@ -9028,7 +9028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 226.06 49.53 0)
 			(effects
 				(font
@@ -9055,7 +9055,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 226.06 49.53 0)
 			(effects
 				(font
@@ -10171,7 +10171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 247.65 52.07 0)
 			(effects
 				(font
@@ -10198,7 +10198,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 247.65 52.07 0)
 			(effects
 				(font
@@ -10266,7 +10266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/jp/products/databook/datasheet/opto/led/chip_mono/sml-d12v8wt86(c)-j.pdf"
 			(at 185.42 44.45 0)
 			(effects
 				(font
@@ -10293,7 +10293,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SML-D12V8W(C)"
+		(property "MPN" "SML-D12V8WC"
 			(at 185.42 44.45 0)
 			(effects
 				(font
