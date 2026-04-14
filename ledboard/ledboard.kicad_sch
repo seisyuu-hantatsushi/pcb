@@ -6179,7 +6179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 185.1152 67.31 0)
 			(effects
 				(font
@@ -6215,7 +6215,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM022R61C103ME01"
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 184.15 63.5 0)
 			(effects
 				(font
@@ -8625,7 +8625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_01005_0402Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 63.1952 67.31 0)
 			(effects
 				(font
@@ -8661,7 +8661,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM0222C1C100JA03"
+		(property "MPN" "GRM1555C1E100JA01D"
 			(at 62.23 63.5 0)
 			(effects
 				(font
