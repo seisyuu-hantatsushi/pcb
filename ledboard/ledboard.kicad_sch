@@ -4515,7 +4515,7 @@
 		(at 24.13 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9608,7 +9608,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyLib:SPM7054VC-3R3M-D"
+		(property "Footprint" "MyLib:IND_BOURNS_SRN8040"
 			(at 127 39.37 0)
 			(effects
 				(font
@@ -9617,7 +9617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/srn8040.pdf"
 			(at 127 39.37 0)
 			(effects
 				(font
@@ -9635,7 +9635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TDK"
+		(property "Manufacturer" "BOURNS"
 			(at 127 39.37 90)
 			(effects
 				(font
@@ -9644,7 +9644,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SPM7054VC-3R3M-D"
+		(property "MPN" "SRN8040-3R3Y"
 			(at 127 39.37 90)
 			(effects
 				(font
@@ -9653,7 +9653,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1870691"
+		(property "LCSC Part #" "C780188"
 			(at 127 39.37 90)
 			(effects
 				(font
